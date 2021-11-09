@@ -1,0 +1,9 @@
+.bsp/sbt.json
+.idea/
+target/
+mainRunner/
+project/project/
+project/target/
+resources/
+null/
+
